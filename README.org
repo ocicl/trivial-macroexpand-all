@@ -3,7 +3,7 @@
 macroexpand-all function that calls each implementation's equivalent.
 
 |---------+-------------------------------------------------------------|
-| source  | git:https://github.com/cbaggers/trivial-macroexpand-all.git |
-| commit  | 933270a                                                     |
+| source  | git:https://github.com/yitzchak/trivial-macroexpand-all.git |
+| commit  | b6e4efa                                                     |
 | systems | trivial-macroexpand-all                                     |
 |---------+-------------------------------------------------------------|
