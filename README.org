@@ -4,6 +4,6 @@ macroexpand-all function that calls each implementation's equivalent.
 
 |---------+-------------------------------------------------------------|
 | source  | git:https://github.com/yitzchak/trivial-macroexpand-all.git |
-| commit  | 20a4137                                                     |
+| commit  | b6e4efa                                                     |
 | systems | trivial-macroexpand-all                                     |
 |---------+-------------------------------------------------------------|
